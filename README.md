@@ -73,3 +73,4 @@ If you have any questions or would like to get in touch, please open an issue on
 
 ## References
 - [https://arrow.apache.org/docs/format/Flight.html#downloading-data](https://arrow.apache.org/docs/format/Flight.html#downloading-data)
+- [https://medium.com/@mikekenneth77/unlocking-duckdb-from-anywhere-a-guide-to-remote-access-with-apache-arrow-and-flight-rpc-grpc-de9335c7aaec]
